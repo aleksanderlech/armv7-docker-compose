@@ -6,7 +6,7 @@ Based on light arm32v7/alpine linux image.
 ## Installation *
 
 ```shell
-sudo curl -L --fail https://raw.githubusercontent.com/aleksanderlech/armv7-docker-compose/docker-compose -o /usr/local/bin/docker-compose
+sudo curl -fsSL https://raw.githubusercontent.com/aleksanderlech/armv7-docker-compose/master/run.sh -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
