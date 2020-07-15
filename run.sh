@@ -15,7 +15,7 @@
 
 set -e
 
-VERSION="1.24.0"
+VERSION="1.26.2"
 IMAGE="aleksjej/armv7-docker-compose:$VERSION"
 
 
