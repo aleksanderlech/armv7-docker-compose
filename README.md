@@ -12,4 +12,8 @@ sudo chmod +x /usr/local/bin/docker-compose
 
 \* script based on original docker-compose runner with replaced docker image.
 
-See https://cloud.docker.com/repository/docker/aleksjej/armv7-docker-compose
+```
+docker pull aleksjej/armv7-docker-compose
+```
+
+See https://hub.docker.com/r/aleksjej/armv7-docker-compose
