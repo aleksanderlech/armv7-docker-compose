@@ -10,10 +10,6 @@ sudo curl -fsSL https://raw.githubusercontent.com/aleksanderlech/armv7-docker-co
 sudo chmod +x /usr/local/bin/docker-compose
 ```
 
-\* script based on original docker-compose runner with replaced docker image.
-
-```
-docker pull aleksjej/armv7-docker-compose
-```
+\* script based on original docker-compose runner with replaced docker image (aleksjej/armv7-docker-compose).
 
 See https://hub.docker.com/r/aleksjej/armv7-docker-compose
